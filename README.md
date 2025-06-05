@@ -1,6 +1,6 @@
-Hi there,
+Hi there! I'm Franz.
 
-#### Some live projects
+#### Selected Live Projects
 
 - [Formshive](https://formshive.com/): Effortless, flexible form data handling
 - [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments
