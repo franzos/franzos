@@ -1,0 +1,43 @@
+name: Update Blog Links
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 6 * * *' # Not optimal, but cleaner than modifying the related repo
+  workflow_dispatch:
+
+jobs:
+  update-blog-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+    
+    - name: Run blog links update script
+      run: node update-blog-links.js
+    
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet README.md; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update blog links from feed"
+        git push

@@ -1,4 +1,4 @@
-Hi there! I'm Franz.
+Hi there! I'm [Franz](https://gofranz.com/resume/).
 
 #### Selected Live Projects
 
@@ -6,10 +6,23 @@ Hi there! I'm Franz.
 - [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments
 - [NostrOP](https://d2okqj4v2u9fts.cloudfront.net/): Nostr client ([source](https://github.com/franzos/nostr-ts))
 
+More on my website: [gofranz.com](https://gofranz.com/)
+
 #### Into GNU/Linux?
 
 - My channel [panther](https://github.com/PantherXOS/panther): Useful packages
 - My distro [PantherX OS](https://www.pantherx.org/): A lightweight, non-free GNU Guix wrapper.
+
+#### From My Blog
+
+- [Customize Guix Shell Environment](https://gofranz.com/blog/customize-guix-shell-environment/)
+- [React Native (and Android Development) on Guix](https://gofranz.com/blog/react-native-on-guix/)
+- [Vibe Coding with Rust: The Key To Success. Not.](https://gofranz.com/blog/vibe-coding/)
+- [Reduced AWS Bills by 75% with Docker](https://gofranz.com/blog/reduced-aws-bills-by-75-percent-with-docker-copy/)
+- [Automate testing with Docker Compose and Claude Code](https://gofranz.com/blog/automate-testing-with-docker-compose-and-claude-code/)
+- [Claude Code vs. Claude API: A Developer’s Comparison](https://gofranz.com/blog/claude-code-vs-claude-api/)
+
+Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
 #### Coding Stats
 
