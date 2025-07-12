@@ -13,6 +13,8 @@ More on my website: [gofranz.com](https://gofranz.com/)
 - My channel [panther](https://github.com/PantherXOS/panther): Useful packages
 - My distro [PantherX OS](https://www.pantherx.org/): A lightweight, non-free GNU Guix wrapper.
 
+Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into my setup.
+
 #### From My Blog
 
 - [Customize Guix Shell Environment](https://gofranz.com/blog/customize-guix-shell-environment/)
