@@ -17,12 +17,12 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [LLM Guardrails with OpenShield](https://gofranz.com/blog/llm-guardrails-with-openshield/)
 - [Rust and React: Tips for Full-Stack Development](https://gofranz.com/blog/rust-react-mantine-productivity/)
 - [Customize Guix Shell Environment](https://gofranz.com/blog/customize-guix-shell-environment/)
 - [React Native (and Android Development) on Guix](https://gofranz.com/blog/react-native-on-guix/)
 - [Vibe Coding with Rust: The Key To Success. Not.](https://gofranz.com/blog/vibe-coding/)
 - [Reduced AWS Bills by 75% with Docker](https://gofranz.com/blog/reduced-aws-bills-by-75-percent-with-docker-copy/)
-- [Automate testing with Docker Compose and Claude Code](https://gofranz.com/blog/automate-testing-with-docker-compose-and-claude-code/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
