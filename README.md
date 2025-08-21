@@ -17,12 +17,12 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
-- [Load Testing and Scaling (Formshive with Apache Bench)](http://localhost:4000/blog/testing-and-scaling-formshive-with-apache-bench/)
-- [A Surface-Level Look at LLM Vendor Privacy](http://localhost:4000/blog/a-surface-level-look-at-llm-vendor-privacy/)
-- [A Surface Look At Llm Vendor Privacy](http://localhost:4000/blog/a-surface-look-at-llm-vendor-privacy/)
-- [LLM Guardrails with OpenShield](http://localhost:4000/blog/llm-guardrails-with-openshield/)
-- [Rust and React: Tips for Full-Stack Development](http://localhost:4000/blog/rust-react-mantine-productivity/)
-- [Customize Guix Shell Environment](http://localhost:4000/blog/customize-guix-shell-environment/)
+- [Load Testing and Scaling (Formshive with Apache Bench)](https://gofranz.com/blog/testing-and-scaling-formshive-with-apache-bench/)
+- [A Surface-Level Look at LLM Vendor Privacy](https://gofranz.com/blog/a-surface-level-look-at-llm-vendor-privacy/)
+- [LLM Guardrails with OpenShield](https://gofranz.com/blog/llm-guardrails-with-openshield/)
+- [Rust and React: Tips for Full-Stack Development](https://gofranz.com/blog/rust-react-mantine-productivity/)
+- [Customize Guix Shell Environment](https://gofranz.com/blog/customize-guix-shell-environment/)
+- [React Native (and Android Development) on Guix](https://gofranz.com/blog/react-native-on-guix/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
