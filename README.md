@@ -18,12 +18,12 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [From Docker to Podman on Guix](https://gofranz.com/blog/from-docker-to-podman-on-guix/)
 - [Load Testing and Scaling (Formshive with Apache Bench)](https://gofranz.com/blog/testing-and-scaling-formshive-with-apache-bench/)
 - [A Surface-Level Look at LLM Vendor Privacy](https://gofranz.com/blog/a-surface-level-look-at-llm-vendor-privacy/)
 - [LLM Guardrails with OpenShield](https://gofranz.com/blog/llm-guardrails-with-openshield/)
 - [From Vibe Coding to Production: Why Your Lovable.dev MVP Needs Professional Help](https://gofranz.com/blog/lovable-dev-apps-need-professional-help/)
 - [Rust and React: Tips for Full-Stack Development](https://gofranz.com/blog/rust-react-mantine-productivity/)
-- [Customize Guix Shell Environment](https://gofranz.com/blog/customize-guix-shell-environment/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
