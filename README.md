@@ -3,8 +3,8 @@ Hi there! I'm [Franz](https://gofranz.com/resume/).
 #### Selected Live Projects
 
 - [GPTMuse](https://gpt-muse.com/): Privacy-first, pay as you go AI platform
-- [Formshive](https://formshive.com/): Effortless, flexible form data handling ([source](https://github.com/franzos/formshive-ts))
-- [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments ([source](https://github.com/franzos/checkoutbay-ts))
+- [Formshive](https://formshive.com/): Effortless, flexible form data handling
+- [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments
 - [NostrOP](https://d2okqj4v2u9fts.cloudfront.net/): Nostr client ([source](https://github.com/franzos/nostr-ts))
 
 More on my website: [gofranz.com](https://gofranz.com/)
