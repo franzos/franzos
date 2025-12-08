@@ -18,12 +18,12 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [Supercharge Guix Shell with direnv](https://gofranz.com/blog/supercharge-guix-shell-with-direnv/)
 - [Automatic Dark/Light Theme Switching on Sway with Guix](https://gofranz.com/blog/automatic-dark-light-theme-switching-sway-guix/)
 - [Screen Sharing on Sway/Wayland with Guix](https://gofranz.com/blog/screen-sharing-on-sway-wayland-guix/)
 - [LLM models that run well on your laptop](https://gofranz.com/blog/llm-models-that-run-well-on-your-laptop/)
 - [From Docker to Podman on Guix](https://gofranz.com/blog/from-docker-to-podman-on-guix/)
 - [Load Testing and Scaling (Formshive with Apache Bench)](https://gofranz.com/blog/testing-and-scaling-formshive-with-apache-bench/)
-- [A Surface-Level Look at LLM Vendor Privacy](https://gofranz.com/blog/a-surface-level-look-at-llm-vendor-privacy/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
