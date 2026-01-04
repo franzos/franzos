@@ -11,7 +11,7 @@ More on my website: [gofranz.com](https://gofranz.com/)
 
 #### Into GNU/Linux?
 
-- My channel [panther](https://github.com/PantherXOS/panther): Useful packages
+- My channel [panther](https://github.com/franzos/panther): Useful packages
 - My distro [PantherX OS](https://www.pantherx.org/): A lightweight, non-free GNU Guix wrapper.
 
 Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into my setup.
