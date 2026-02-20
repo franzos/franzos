@@ -4,9 +4,9 @@ Hi there! I'm [Franz](https://gofranz.com/resume/).
 
 **Web**
 
-- <img src="https://gpt-muse.com/favicon.ico" width="16" height="16"> [GPTMuse](https://gpt-muse.com/): Privacy-first, pay as you go AI platform
-- <img src="https://formshive.com/favicon.ico" width="16" height="16"> [Formshive](https://formshive.com/): Effortless, flexible form data handling
-- <img src="https://checkoutbay.com/favicon.ico" width="16" height="16"> [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments
+- <img src="https://gpt-muse.com/logo.png" width="16" height="16"> [GPTMuse](https://gpt-muse.com/): Privacy-first, pay as you go AI platform
+- <img src="https://formshive.com/logo.png" width="16" height="16"> [Formshive](https://formshive.com/): Effortless, flexible form data handling
+- <img src="https://checkoutbay.com/logo.png" width="16" height="16"> [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments
 - <img src="https://d2okqj4v2u9fts.cloudfront.net/favicon.ico" width="16" height="16"> [NostrOP](https://d2okqj4v2u9fts.cloudfront.net/): Nostr client ([source](https://github.com/franzos/nostr-ts))
 
 **Desktop**
