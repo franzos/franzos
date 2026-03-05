@@ -26,12 +26,12 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [Screen Sharing on Niri/Wayland with Guix](https://gofranz.com/blog/screen-sharing-on-niri-wayland-with-guix/)
 - [Web Rendering in Iced — What Actually Works](https://gofranz.com/blog/web-rendering-in-iced-what-actually-works/)
 - [Run an IOTA Node on Guix](https://gofranz.com/blog/run-an-iota-node-on-guix/)
 - [Build React Native Android Apps on Guix in 5 Minutes](https://gofranz.com/blog/react-native-android-on-guix-without-docker/)
 - [The Perfect Linux Setup: Guix on a Framework Laptop](https://gofranz.com/blog/the-perfect-linux-setup-guix-framework/)
 - [Jail Claude Code with Guix Shell Containers](https://gofranz.com/blog/jail-claude-code-with-guix-shell-container/)
-- [Supercharge Guix Shell with direnv](https://gofranz.com/blog/supercharge-guix-shell-with-direnv/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
