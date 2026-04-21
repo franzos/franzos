@@ -4,17 +4,17 @@ Hi there! I'm [Franz](https://gofranz.com/resume/).
 
 **Web**
 
-- <img src="https://gpt-muse.com/logo.png" width="16" height="16"> [GPTMuse](https://gpt-muse.com/): Privacy-first, pay as you go AI platform
-- <img src="https://formshive.com/logo.png" width="16" height="16"> [Formshive](https://formshive.com/): Effortless, flexible form data handling
-- <img src="https://checkoutbay.com/logo.png" width="16" height="16"> [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments
-- <img src="https://d2okqj4v2u9fts.cloudfront.net/favicon.ico" width="16" height="16"> [NostrOP](https://d2okqj4v2u9fts.cloudfront.net/): Nostr client ([source](https://github.com/franzos/nostr-ts))
-- <img src="https://raw.githubusercontent.com/franzos/stackpit/master/assets/icon.svg" width="16" height="16"> [Stackpit](https://github.com/franzos/stackpit): Self-hosted Sentry replacement — single binary, single SQLite file
+<img src="https://gpt-muse.com/logo.png" width="16" height="16"> [GPTMuse](https://gpt-muse.com/): Privacy-first, pay as you go AI platform  
+<img src="https://formshive.com/logo.png" width="16" height="16"> [Formshive](https://formshive.com/): Effortless, flexible form data handling  
+<img src="https://checkoutbay.com/logo.png" width="16" height="16"> [Checkoutbay](https://checkoutbay.com/): Manage inventory, orders, warehouses, and payments  
+<img src="https://d2okqj4v2u9fts.cloudfront.net/favicon.ico" width="16" height="16"> [NostrOP](https://d2okqj4v2u9fts.cloudfront.net/): Nostr client ([source](https://github.com/franzos/nostr-ts))  
+<img src="https://raw.githubusercontent.com/franzos/stackpit/master/assets/icon.svg" width="16" height="16"> [Stackpit](https://github.com/franzos/stackpit): Self-hosted Sentry replacement — single binary, single SQLite file  
 
 **Desktop**
 
-- <img src="https://raw.githubusercontent.com/franzos/jota/master/assets/logo-icon.svg" width="16" height="16"> [JOTA](https://github.com/franzos/jota): IOTA desktop wallet with dApp and Ledger support
-- <img src="https://raw.githubusercontent.com/franzos/envstash/master/assets/logo-icon.svg" width="16" height="16"> [envstash](https://github.com/franzos/envstash): Version control for .env files with diffing, snapshots, and encryption
-- <img src="https://raw.githubusercontent.com/franzos/tku/master/assets/logo-icon.svg" width="16" height="16"> [tku](https://github.com/franzos/tku): Track token usage and costs across AI code assistants
+<img src="https://raw.githubusercontent.com/franzos/jota/master/assets/logo-icon.svg" width="16" height="16"> [JOTA](https://github.com/franzos/jota): IOTA desktop wallet with dApp and Ledger support  
+<img src="https://raw.githubusercontent.com/franzos/envstash/master/assets/logo-icon.svg" width="16" height="16"> [envstash](https://github.com/franzos/envstash): Version control for .env files with diffing, snapshots, and encryption  
+<img src="https://raw.githubusercontent.com/franzos/tku/master/assets/logo-icon.svg" width="16" height="16"> [tku](https://github.com/franzos/tku): Track token usage and costs across AI code assistants  
 
 More on my website: [gofranz.com](https://gofranz.com/)
 
