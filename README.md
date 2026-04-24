@@ -31,12 +31,12 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [ISO 27001, ISO 42001, and What ‘Aligned’ Actually Means](https://gofranz.com/blog/iso-27001-42001-what-aligned-actually-means/)
 - [A Tiny Guix Build Farm on a ThinkPad](https://gofranz.com/blog/a-tiny-guix-build-farm-on-a-thinkpad/)
 - [OpenPGP Web Key Directory on S3 and CloudFront](https://gofranz.com/blog/openpgp-web-key-directory-on-s3-cloudfront/)
 - [Screen Sharing on Niri/Wayland with Guix](https://gofranz.com/blog/screen-sharing-on-niri-wayland-with-guix/)
 - [Web Rendering in Iced — What Actually Works](https://gofranz.com/blog/web-rendering-in-iced-what-actually-works/)
 - [Run an IOTA Node on Guix](https://gofranz.com/blog/run-an-iota-node-on-guix/)
-- [Build React Native Android Apps on Guix in 5 Minutes](https://gofranz.com/blog/react-native-android-on-guix-without-docker/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
