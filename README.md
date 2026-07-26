@@ -9,8 +9,8 @@ Hi there! I'm [Franz](https://gofranz.com/resume/).
 <tr><td><img src="https://formshive.com/logo.png" width="16" height="16"></td><td><a href="https://formshive.com/">Formshive</a>: Effortless, flexible form data handling</td></tr>
 <tr><td><img src="https://checkoutbay.com/logo.png" width="16" height="16"></td><td><a href="https://checkoutbay.com/">Checkoutbay</a>: Manage inventory, orders, warehouses, and payments</td></tr>
 <tr><td><img src="https://d2okqj4v2u9fts.cloudfront.net/favicon.ico" width="16" height="16"></td><td><a href="https://d2okqj4v2u9fts.cloudfront.net/">NostrOP</a>: Nostr client (<a href="https://github.com/franzos/nostr-ts">source</a>)</td></tr>
-<tr><td><img src="https://raw.githubusercontent.com/franzos/stackpit/master/assets/icon.svg" width="16" height="16"></td><td><a href="https://github.com/franzos/stackpit">Stackpit</a>: Self-hosted Sentry replacement — single binary, single SQLite file</td></tr>
-<tr><td><img src="https://raw.githubusercontent.com/franzos/forseti/master/assets/icon.svg" width="16" height="16"></td><td><a href="https://github.com/franzos/forseti">Forseti</a>: Self-service UI and OAuth2 login/consent/logout bridge for Ory Kratos + Ory Hydra</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/franzos/stackpit/master/assets/icon.png" width="16" height="16"></td><td><a href="https://github.com/franzos/stackpit">Stackpit</a>: Self-hosted Sentry replacement — single binary, single SQLite file</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/franzos/forseti/master/assets/logo.png" height="16"></td><td><a href="https://github.com/franzos/forseti">Forseti</a>: Self-service UI and OAuth2 login/consent/logout bridge for Ory Kratos + Ory Hydra</td></tr>
 </table>
 
 **Desktop**
