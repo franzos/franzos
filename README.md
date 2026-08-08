@@ -35,12 +35,12 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
-- [Keycloak Multi-Tenancy: Realms vs Organizations](http://localhost:4000/blog/keycloak-multi-tenancy-realms-vs-organizations/)
-- [ISO 27001, ISO 42001, and What ‘Aligned’ Actually Means](http://localhost:4000/blog/iso-27001-42001-what-aligned-actually-means/)
-- [A Tiny Guix Build Farm on a ThinkPad](http://localhost:4000/blog/a-tiny-guix-build-farm-on-a-thinkpad/)
-- [OpenPGP Web Key Directory on S3 and CloudFront](http://localhost:4000/blog/openpgp-web-key-directory-on-s3-cloudfront/)
-- [Screen Sharing on Niri/Wayland with Guix](http://localhost:4000/blog/screen-sharing-on-niri-wayland-with-guix/)
-- [Web Rendering in Iced — What Actually Works](http://localhost:4000/blog/web-rendering-in-iced-what-actually-works/)
+- [Deploying AI in a business: the AI is the easy part](https://gofranz.com/blog/deploying-ai-in-a-business/)
+- [MCP dropped DCR for CIMD - and handed you an SSRF](https://gofranz.com/blog/mcp-dcr-deprecated-cimd/)
+- [A 1,534-line commit called “runs”](https://gofranz.com/blog/a-1534-line-commit-called-runs/)
+- [Debian 11 to 12 on Hetzner: What Actually Breaks](https://gofranz.com/blog/debian-11-to-12-on-hetzner-what-actually-breaks/)
+- [What Real-time AI avatars actually cost](https://gofranz.com/blog/real-time-ai-avatars-what-they-actually-cost/)
+- [Make the AI adapt to you](https://gofranz.com/blog/make-the-ai-adapt-to-you/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
 
