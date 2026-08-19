@@ -43,7 +43,3 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 - [A 1,534-line commit called “runs”](https://gofranz.com/blog/a-1534-line-commit-called-runs/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
-
-#### Coding Stats
-
-![Wakatime Stats](https://wakatime.com/share/@franz/8eb86a7d-24c2-4d5f-b29d-3412a1194f3a.png)
