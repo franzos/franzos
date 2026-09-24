@@ -35,11 +35,11 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [Reviving a BlackBerry KEY2 (and Finding a Bug in the Unlock Tool)](https://gofranz.com/blog/reviving-a-blackberry-key2-and-a-bug-in-the-unlock-tool/)
+- [Testing GUI Apps With Claude (Claude Showed Me the Way)](https://gofranz.com/blog/testing-gui-apps-with-claude/)
+- [My Laptop Is Never Idle, So I Rented One That Is](https://gofranz.com/blog/my-laptop-is-never-idle/)
 - [One Press, Two Clicks](https://gofranz.com/blog/one-press-two-clicks/)
 - [The Headphones Connected, the Mouse Didn’t](https://gofranz.com/blog/the-headphones-connected-the-mouse-didnt/)
 - [687 GiB My SSD Didn’t Know Were Free](https://gofranz.com/blog/ssd-trim-on-guix/)
-- [Deploying AI in a business: the AI is the easy part](https://gofranz.com/blog/deploying-ai-in-a-business/)
-- [MCP dropped DCR for CIMD - and handed you an SSRF](https://gofranz.com/blog/mcp-dcr-deprecated-cimd/)
-- [A 1,534-line commit called “runs”](https://gofranz.com/blog/a-1534-line-commit-called-runs/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
