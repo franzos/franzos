@@ -35,11 +35,11 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
-- [Reviving a BlackBerry KEY2 (and Finding a Bug in the Unlock Tool)](https://gofranz.com/blog/reviving-a-blackberry-key2-and-a-bug-in-the-unlock-tool/)
-- [Testing GUI Apps With Claude (Claude Showed Me the Way)](https://gofranz.com/blog/testing-gui-apps-with-claude/)
+- [Stepping Up Guix System Security](https://gofranz.com/blog/stepping-up-guix-system-security/)
+- [Reviving a BlackBerry KEY2](https://gofranz.com/blog/reviving-a-blackberry-key2-and-a-bug-in-the-unlock-tool/)
+- [Testing GUI Apps With Claude](https://gofranz.com/blog/testing-gui-apps-with-claude/)
 - [My Laptop Is Never Idle, So I Rented One That Is](https://gofranz.com/blog/my-laptop-is-never-idle/)
 - [One Press, Two Clicks](https://gofranz.com/blog/one-press-two-clicks/)
 - [The Headphones Connected, the Mouse Didn’t](https://gofranz.com/blog/the-headphones-connected-the-mouse-didnt/)
-- [687 GiB My SSD Didn’t Know Were Free](https://gofranz.com/blog/ssd-trim-on-guix/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
