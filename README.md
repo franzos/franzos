@@ -35,11 +35,11 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [CIMD adoption three months in - Mistral is the one without it](https://gofranz.com/blog/state-of-cimd-adoption/)
+- [PHP2Shell, and a Site Stuck on PHP 5.6](https://gofranz.com/blog/php2shell-and-a-site-stuck-on-php-5-6/)
 - [Stepping Up Guix System Security](https://gofranz.com/blog/stepping-up-guix-system-security/)
 - [Reviving a BlackBerry KEY2](https://gofranz.com/blog/reviving-a-blackberry-key2-and-a-bug-in-the-unlock-tool/)
 - [Testing GUI Apps With Claude](https://gofranz.com/blog/testing-gui-apps-with-claude/)
 - [My Laptop Is Never Idle, So I Rented One That Is](https://gofranz.com/blog/my-laptop-is-never-idle/)
-- [One Press, Two Clicks](https://gofranz.com/blog/one-press-two-clicks/)
-- [The Headphones Connected, the Mouse Didn’t](https://gofranz.com/blog/the-headphones-connected-the-mouse-didnt/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
