@@ -36,11 +36,11 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [claude.ai on Forgejo, signed in through Forseti](https://gofranz.com/blog/claude-ai-forgejo-via-forseti/)
+- [What a month of coding-agent tokens costs: subscriptions vs API](https://gofranz.com/blog/what-a-month-of-coding-agent-tokens-costs/)
 - [Forseti’s First Pen Test](https://gofranz.com/blog/forseti-first-pen-test/)
 - [Sortello: a Personal Extension for Claude, ChatGPT and Co.](https://gofranz.com/blog/sortello-a-personal-extension-for-claude-chatgpt/)
 - [Every uncensored DeepSeek V4.1 Flash provider I could find](https://gofranz.com/blog/uncensored-deepseek-v4-1-flash-providers/)
 - [CIMD adoption three months in - Mistral is the one without it](https://gofranz.com/blog/state-of-cimd-adoption/)
-- [PHP2Shell, and a Site Stuck on PHP 5.6](https://gofranz.com/blog/php2shell-and-a-site-stuck-on-php-5-6/)
-- [Stepping Up Guix System Security](https://gofranz.com/blog/stepping-up-guix-system-security/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
