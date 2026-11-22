@@ -36,11 +36,11 @@ Checkout my [dotfiles](https://github.com/franzos/dotfiles) for a glimpse into m
 
 #### From My Blog
 
+- [A Doctor Vibe-Coded His Practice Software. Here’s What I Found.](https://gofranz.com/blog/six-months-of-vibe-coding-reviewed/)
+- [From a Default Password to Root on Every Box](https://gofranz.com/blog/from-a-default-password-to-root-on-every-box/)
 - [What I Use Sortello For, Two Weeks In](https://gofranz.com/blog/what-i-use-sortello-for/)
 - [Every uncensored GLM-5.3 Flash provider I could find](https://gofranz.com/blog/uncensored-glm-5-3-flash-providers/)
 - [claude.ai on Forgejo, signed in through Forseti](https://gofranz.com/blog/claude-ai-forgejo-via-forseti/)
 - [What a month of coding-agent tokens costs: subscriptions vs API](https://gofranz.com/blog/what-a-month-of-coding-agent-tokens-costs/)
-- [Forseti’s First Pen Test](https://gofranz.com/blog/forseti-first-pen-test/)
-- [Sortello: a Personal Extension for Claude, ChatGPT and Co.](https://gofranz.com/blog/sortello-a-personal-extension-for-claude-chatgpt/)
 
 Continue reading: [gofranz.com/blog](https://gofranz.com/blog/)
